@@ -89,7 +89,6 @@ Complete the prerequisite tasks of [Get started with IBM Bob](../../ai-in-sports
 - [Task 3: Start Jupyter Lab to run the notebook.](#task03)
 - [Task 4: Clean up when you're done.](#task04)
 
-<!--
 # Preview the tutorial
 
 Watch the following video to see a preview of the steps in this tutorial.
@@ -98,9 +97,7 @@ Watch the following video to see a preview of the steps in this tutorial.
 
 **Tip:** Right-click the following thumbnail image, and open the video in a new tab.
 
-<a href="https://video.ibm.com/embed/channel/23669513/video/football-predictor">![Video preview of tutorial](images/video-thumbnail-football-predictor.jpg "Video preview of tutorial")</a>
-
--->
+<a href="https://video.ibm.com/embed/channel/23669513/video/ai-in-space">![Video preview of tutorial](images/video-thumbnail-space.jpg "Video preview of tutorial")</a>
 
 ***
 
@@ -146,15 +143,15 @@ Follow these steps to create a directory and open that directory in Bob:
 
 Follow these steps to set up your environment to complete this lab:
 
+1. Switch to **Agent** mode.
+
 1. In Bob's chat panel, copy and paste the following prompt:
 
    ```
-   Great! Now please setup the necessary environment for this lab, 
+   Great! Now please setup the necessary environment for Jupyter Lab, 
    but don't install the packages that go inside Jupyter Lab.
    I'll do that part while following the lab.
    ```
-
-1. Click **Approve once** to switch to *Agent* mode.
 
 1. Click **Approve once** repeatedly when prompted to run the commands to set up the environment.
 
