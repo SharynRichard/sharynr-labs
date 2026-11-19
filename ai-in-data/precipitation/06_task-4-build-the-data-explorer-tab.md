@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 In this task, you build `explorer.py` to create the Data Explorer tab component. It features an interactive, reactive data table with country search, year-based sorting and filtering with mutual exclusion, negative-trend filtering, and a dataset statistics sidebar. You will then wire `explorer_tab` into `app.py`.
 
 Follow these steps to create and integrate the Data Explorer tab:
@@ -107,4 +109,4 @@ The following image shows the interactive Data Explorer tab:
 
 <kbd><img src="images/data-explorer.png" alt="Data Explorer tab"></kbd>
 
-[Back to the top](02_contents.md)
+[Back to the top](#top)

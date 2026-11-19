@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 In this task, you prompt Bob to create `charts.py` containing pure chart-generating functions using Matplotlib and Panel. Each function creates an isolated, properly sized figure, wraps it in a `pn.pane.Matplotlib` object, and manages memory cleanly.
 
 Follow these steps to build the charts module:
@@ -88,4 +90,4 @@ The following image shows the verified chart module testing:
 
 <img src="images/charts-verification.png" alt="Charts verification">
 
-[Back to the top](02_contents.md)
+[Back to the top](#top)

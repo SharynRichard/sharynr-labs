@@ -73,3 +73,25 @@ The columns in the dataset include:
 **Tip:** Right-click the following link, and open the pages in a new tab.
 
 Complete the prerequisite tasks of <a href="https://sharynrichard.github.io/sharynr-labs/ai-in-sports/get-started-with-ibm-bob.html" target="_blank">Get started with IBM Bob</a>.
+
+### Contents
+
+- Task 1: Set up the project
+- Task 2: Create the shell application
+- Task 3: Build the data module
+- Task 4: Build the Data Explorer tab
+- Task 5: Build the charts module
+- Task 6: Assemble the Charts tab]
+- Task 7: Apply final styling and polish
+- Summary
+
+<!--
+- [Task 1: Set up the project](03_task-1-set-up-the-project.md)
+- [Task 2: Create the shell application](04_task-2-create-the-shell-application.md)
+- [Task 3: Build the data module](05_task-3-build-the-data-module.md)
+- [Task 4: Build the Data Explorer tab](06_task-4-build-the-data-explorer-tab.md)
+- [Task 5: Build the charts module](07_task-5-build-the-charts-module.md)
+- [Task 6: Assemble the Charts tab](08_task-6-assemble-the-charts-tab.md)
+- [Task 7: Apply final styling and polish](09_task-7-apply-final-styling-and-polish.md)
+- [Summary](10_summary.md)
+-->

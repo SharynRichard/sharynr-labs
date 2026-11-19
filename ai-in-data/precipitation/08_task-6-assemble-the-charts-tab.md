@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 In this task, you update `app.py` to replace the Charts tab placeholder with an interactive layout combining static top-5 overview charts with country-specific reactive visualizations.
 
 Follow these steps to wire up the Charts tab:
@@ -70,4 +72,4 @@ The following image shows the interactive Charts tab:
 
 <kbd><img src="images/charts-tab.png" alt="Charts tab"></kbd>
 
-[Back to the top](02_contents.md)
+[Back to the top](#top)

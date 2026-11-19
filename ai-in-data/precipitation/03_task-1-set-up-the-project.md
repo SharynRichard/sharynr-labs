@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 In this task, you will set up the project:
 
 - Create a project folder and place the `Precipitation-2023.csv` data file in it.
@@ -89,4 +91,4 @@ The following image shows the verified project setup:
 
 <img src="images/folder-setup.png" alt="Folder setup">
 
-[Back to the top](02_contents.md)
+[Back to the top](#top)

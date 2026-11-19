@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 In this task, you prompt Bob to create `data.py` to centralize all data loading, row-wise aggregation, linear trend slope computation, and summary helper functions so that UI components never perform raw CSV parsing.
 
 Follow these steps to build the data processing module:
@@ -83,4 +85,4 @@ The following image shows the verified data module output:
 
 <img src="images/data-verification.png" alt="Data verification">
 
-[Back to the top](02_contents.md)
+[Back to the top](#top)

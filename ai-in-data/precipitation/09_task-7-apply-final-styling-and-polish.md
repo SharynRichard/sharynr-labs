@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 In this task, you apply visual styling and layout enhancements to `app.py`, giving the dashboard a polished presentation appearance.
 
 Follow these steps to apply the final styling:
@@ -70,4 +72,4 @@ The following image shows the completed Charts tab:
 
 **Note:** When you are done exploring, switch to your terminal window and press `CTRL+C` to stop the Panel server.
 
-[Back to the top](02_contents.md)
+[Back to the top](#top)

@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 In this task, you create the main application entry point (`app.py`). It establishes the initial page structure with a main title and two tabs ("Data Explorer" and "Charts") containing placeholder content, establishing a runnable application shell for all subsequent modules.
 
 Follow these steps to build the application shell:
@@ -69,4 +71,4 @@ The following image shows the running application shell:
 
 <kbd><img src="images/shell-app.png" alt="Shell application"></kbd>
 
-[Back to the top](02_contents.md)
+[Back to the top](#top)
