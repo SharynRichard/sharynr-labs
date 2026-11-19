@@ -18,8 +18,8 @@ Now that you have completed this lab, you should be able to:
 
 ### Additional resources
 
-- [IBM Bob documentation](https://bob.ibm.com/docs)
-- [Panel (HoloViz) documentation](https://panel.holoviz.org/)
-- [pandas documentation](https://pandas.pydata.org/docs/)
-- [Matplotlib documentation](https://matplotlib.org/stable/contents.html)
-- [UNdata - United Nations Statistics Division](https://data.un.org/)
+- <a href="https://bob.ibm.com/docs" target="_blank">IBM Bob documentation</a>
+- <a href="https://panel.holoviz.org/" target="_blank">Panel (HoloViz) documentation</a>
+- <a href="ttps://pandas.pydata.org/docs/" target="_blank">pandas documentation</a>
+- <a href="https://matplotlib.org/stable/contents.html" target="_blank">Matplotlib documentation</a>
+- <a href="https://data.un.org/" target="_blank">UNdata - United Nations Statistics Division</a>

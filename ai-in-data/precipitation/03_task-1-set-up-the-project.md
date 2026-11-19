@@ -23,7 +23,7 @@ Follow these steps to create the lab directory and save the dataset:
    cd ai-in-data-precipitation
    ```
 
-1. Download [Precipitation-2023.csv](Precipitation-2023.csv) from the GitHub repository, and store the file in the `ai-in-data-precipitation` folder. **Tip:** Right-click the link, and open the page in a new tab.
+1. Download <a href="Precipitation-2023.csv" target="_blank">Precipitation-2023.csv</a> from the GitHub repository, and store the file in the `ai-in-data-precipitation` folder. **Tip:** Right-click the link, and open the page in a new tab.
 
 1. Open the project folder in IBM Bob:
    1. Click **File > Open Folder**.

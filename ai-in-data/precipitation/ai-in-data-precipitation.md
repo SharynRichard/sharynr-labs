@@ -57,7 +57,7 @@ Throughout the lab, you'll guide IBM Bob with clear instructions and specific re
 
 ### About the dataset
 
-This lab uses historical annual precipitation data (`Precipitation-2023.csv`) published by the [United Nations Statistics Division - UNdata](https://data.un.org/). **Tip:** Right-click the link, and open the page in a new tab.
+This lab uses historical annual precipitation data (`Precipitation-2023.csv`) published by the <a href="https://data.un.org/" target="_blank"> United Nations Statistics Division - UNdata</a>. **Tip:** Right-click the link, and open the page in a new tab.
 
 The columns in the dataset include:
 - **Country or Area:** Name of the country or territory (125 total).
@@ -76,8 +76,7 @@ The columns in the dataset include:
 
 **Tip:** Right-click the following link, and open the pages in a new tab.
 
-Complete the prerequisite tasks of [Get started with IBM Bob](../../ai-in-sports/get-started-with-ibm-bob.md)
-
+Complete the prerequisite tasks of <a href="../../ai-in-sports/get-started-with-ibm-bob.md" target="_blank">Get started with IBM Bob</a>.
 
 ***
 
@@ -138,7 +137,7 @@ Follow these steps to create the lab directory and save the dataset:
    cd ai-in-data-precipitation
    ```
 
-1. Download [Precipitation-2023.csv](Precipitation-2023.csv) from the GitHub repository, and store the file in the `ai-in-data-precipitation` folder. **Tip:** Right-click the link, and open the page in a new tab.
+1. Download <a href="Precipitation-2023.csv" target="_blank">Precipitation-2023.csv</a> from the GitHub repository, and store the file in the `ai-in-data-precipitation` folder. **Tip:** Right-click the link, and open the page in a new tab.
 
 1. Open the project folder in IBM Bob:
    1. Click **File > Open Folder**.
@@ -777,8 +776,8 @@ Now that you have completed this lab, you should be able to:
 
 ### Additional resources
 
-- [IBM Bob documentation](https://bob.ibm.com/docs)
-- [Panel (HoloViz) documentation](https://panel.holoviz.org/)
-- [pandas documentation](https://pandas.pydata.org/docs/)
-- [Matplotlib documentation](https://matplotlib.org/stable/contents.html)
-- [UNdata - United Nations Statistics Division](https://data.un.org/)
+- <a href="https://bob.ibm.com/docs" target="_blank">IBM Bob documentation</a>
+- <a href="https://panel.holoviz.org/" target="_blank">Panel (HoloViz) documentation</a>
+- <a href="ttps://pandas.pydata.org/docs/" target="_blank">pandas documentation</a>
+- <a href="https://matplotlib.org/stable/contents.html" target="_blank">Matplotlib documentation</a>
+- <a href="https://data.un.org/" target="_blank">UNdata - United Nations Statistics Division</a>

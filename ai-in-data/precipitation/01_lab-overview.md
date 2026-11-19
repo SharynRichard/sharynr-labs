@@ -53,7 +53,7 @@ Throughout the lab, you'll guide IBM Bob with clear instructions and specific re
 
 ### About the dataset
 
-This lab uses historical annual precipitation data (`Precipitation-2023.csv`) published by the [United Nations Statistics Division - UNdata](https://data.un.org/). **Tip:** Right-click the link, and open the page in a new tab.
+This lab uses historical annual precipitation data (`Precipitation-2023.csv`) published by the <a href="https://data.un.org/" target="_blank"> United Nations Statistics Division - UNdata</a>. **Tip:** Right-click the link, and open the page in a new tab.
 
 The columns in the dataset include:
 - **Country or Area:** Name of the country or territory (125 total).
@@ -72,4 +72,4 @@ The columns in the dataset include:
 
 **Tip:** Right-click the following link, and open the pages in a new tab.
 
-Complete the prerequisite tasks of [Get started with IBM Bob](../../ai-in-sports/get-started-with-ibm-bob.md)
+Complete the prerequisite tasks of <a href="../../ai-in-sports/get-started-with-ibm-bob.md" target="_blank">Get started with IBM Bob</a>.
