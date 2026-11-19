@@ -6,7 +6,6 @@
 - [Task 6: Assemble the Charts tab](08_task-6-assemble-the-charts-tab.md)
 - [Task 7: Apply final styling and polish](09_task-7-apply-final-styling-and-polish.md)
 - [Summary](10_summary.md)
-- [Additional resources](10_summary.md#additional-resources)
 
 ***
 
