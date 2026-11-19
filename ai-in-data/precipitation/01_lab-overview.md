@@ -68,12 +68,6 @@ The columns in the dataset include:
 
 ***
 
-### Prerequisites
-
-**Tip:** Right-click the following link, and open the pages in a new tab.
-
-Complete the prerequisite tasks of <a href="https://sharynrichard.github.io/sharynr-labs/ai-in-sports/get-started-with-ibm-bob.html" target="_blank">Get started with IBM Bob</a>.
-
 ### Contents
 
 - Task 1: Set up the project
