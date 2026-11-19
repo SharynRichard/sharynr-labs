@@ -72,4 +72,4 @@ The columns in the dataset include:
 
 **Tip:** Right-click the following link, and open the pages in a new tab.
 
-Complete the prerequisite tasks of <a href="../../ai-in-sports/get-started-with-ibm-bob.md" target="_blank">Get started with IBM Bob</a>.
+Complete the prerequisite tasks of <a href="../../ai-in-sports/get-started-with-ibm-bob.html" target="_blank">Get started with IBM Bob</a>.
