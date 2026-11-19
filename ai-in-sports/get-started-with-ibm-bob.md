@@ -18,7 +18,7 @@ The trial account provides access to IBM Bob for 30 days, and includes 40 bobcoi
 
 **Tip:** Right-click the following link, and open the page in a new tab.
 
-1. [Start your free IBM Bob trial](http://ibm.biz/university-bob).
+1. <a href="http://ibm.biz/university-bob" target="_blank">Start your free IBM Bob trial</a>.
 1. Click **Get free tiral**.
 1. Choose how to sign up:
    - Click **Start free tiral with Google** to sign up with your google account.
@@ -50,4 +50,4 @@ Follow these steps to control whether Bob is allowed make requests to use tool o
 
 1. Close the settings window.
 
-For more information, refer to the [IBM Bob documentation](https://bob.ibm.com/docs/ide).
+For more information, refer to the <a href="https://bob.ibm.com/docs" target="_blank">IBM Bob documentation</a>.
