@@ -1,5 +1,3 @@
-## Task 3: Build the data module
-
 In this task, you prompt Bob to create `data.py` to centralize all data loading, row-wise aggregation, linear trend slope computation, and summary helper functions so that UI components never perform raw CSV parsing.
 
 Follow these steps to build the data processing module:

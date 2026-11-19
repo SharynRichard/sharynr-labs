@@ -1,5 +1,3 @@
-## Task 7: Apply final styling and polish
-
 In this task, you apply visual styling and layout enhancements to `app.py`, giving the dashboard a polished presentation appearance.
 
 Follow these steps to apply the final styling:

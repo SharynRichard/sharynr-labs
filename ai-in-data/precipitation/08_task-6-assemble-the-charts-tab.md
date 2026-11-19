@@ -1,5 +1,3 @@
-## Task 6: Assemble the Charts tab
-
 In this task, you update `app.py` to replace the Charts tab placeholder with an interactive layout combining static top-5 overview charts with country-specific reactive visualizations.
 
 Follow these steps to wire up the Charts tab:

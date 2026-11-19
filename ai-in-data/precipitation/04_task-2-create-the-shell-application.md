@@ -1,5 +1,3 @@
-## Task 2: Create the shell application
-
 In this task, you create the main application entry point (`app.py`). It establishes the initial page structure with a main title and two tabs ("Data Explorer" and "Charts") containing placeholder content, establishing a runnable application shell for all subsequent modules.
 
 Follow these steps to build the application shell:

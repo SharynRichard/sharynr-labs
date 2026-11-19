@@ -1,5 +1,3 @@
-## Task 1: Set up the project
-
 In this task, you will set up the project:
 
 - Create a project folder and place the `Precipitation-2023.csv` data file in it.

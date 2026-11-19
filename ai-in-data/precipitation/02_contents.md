@@ -1,5 +1,3 @@
-## Contents
-
 - [Task 1: Set up the project](03_task-1-set-up-the-project.md)
 - [Task 2: Create the shell application](04_task-2-create-the-shell-application.md)
 - [Task 3: Build the data module](05_task-3-build-the-data-module.md)

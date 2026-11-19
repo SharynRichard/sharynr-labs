@@ -1,5 +1,3 @@
-## Task 5: Build the charts module
-
 In this task, you prompt Bob to create `charts.py` containing pure chart-generating functions using Matplotlib and Panel. Each function creates an isolated, properly sized figure, wraps it in a `pn.pane.Matplotlib` object, and manages memory cleanly.
 
 Follow these steps to build the charts module:
