@@ -361,7 +361,6 @@ Follow these steps to add sentiment and intent scoring:
    batch [0], [1], [2] ... and use exactly this prompt, filling in the term from CONFIG and the numbered
    posts:
 
-   ---
    You label short public social-media posts for a coffee shop's marketing team.
    The posts mention "{term}". For EACH post, decide:
 
@@ -382,7 +381,6 @@ Follow these steps to add sentiment and intent scoring:
 
    Posts:
    {posts}
-   ---
 
    Parse the JSON defensively. The model usually returns {"results": [...]} but sometimes returns the bare
    list; accept both. Accept "i" as a string or a number, and if an entry has no "i" at all, use its position
