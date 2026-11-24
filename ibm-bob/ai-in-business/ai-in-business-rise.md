@@ -1,4 +1,4 @@
-![Build a Social Listening Dashboard with IBM Bob](https://sharynrichard.github.io/sharynr-labs/ibm-bob/ai-in-business/images/ai-in-business-title.png)
+<img src="https://sharynrichard.github.io/sharynr-labs/ibm-bob/ai-in-business/images/ai-in-business-title.png" alt="Build a Social Listening Dashboard with IBM Bob" width="100%">
 
 ## Overview
 
@@ -6,7 +6,7 @@ Turn real social data into decisions your team can act on — without writing a 
 
 In this lab, you build an application that scores social posts for sentiment and intent, routes every post into an action queue, lets you triage those queues, tracks week-over-week movement, and exports a weekly brief for the café owner.
 
-![Final application](https://sharynrichard.github.io/sharynr-labs/ibm-bob/ai-in-business/images/final-app.png)
+<img src="https://sharynrichard.github.io/sharynr-labs/ibm-bob/ai-in-business/images/final-app.png" alt="Final application" width="100%">
 
 ***
 
@@ -110,7 +110,7 @@ Watch the following video to see a preview of the steps in this tutorial.
 
 **Tip:** Right-click the following thumbnail image, and open the video in a new tab.
 
-<a href="https://video.ibm.com/embed/channel/23669513/video/ai-in-business">![Video preview of tutorial](https://sharynrichard.github.io/sharynr-labs/ibm-bob/ai-in-business/images/video-thumbnail-ai-in-business.png "Video preview of tutorial")</a>
+<a href="https://video.ibm.com/embed/channel/23669513/video/ai-in-business"><img src="https://sharynrichard.github.io/sharynr-labs/ibm-bob/ai-in-business/images/video-thumbnail-ai-in-business.png" alt="Video preview of tutorial" title="Video preview of tutorial" width="100%"></a>
 
 ***
 
@@ -143,11 +143,11 @@ You will need a **Mistral AI API key**. Follow these steps to create the account
 
 1. Go to [console.mistral.ai](https://console.mistral.ai) and create a free account (email plus phone verification, no card required).
 
-   ![Mistral.ai home page](https://sharynrichard.github.io/sharynr-labs/ibm-bob/ai-in-business/images/mistral-02.png)
+   <img src="https://sharynrichard.github.io/sharynr-labs/ibm-bob/ai-in-business/images/mistral-02.png" alt="Mistral.ai home page" width="100%">
 
 1. In the Mistral console, create a new API key and copy it.
 
-   ![Mistral.ai API page](https://sharynrichard.github.io/sharynr-labs/ibm-bob/ai-in-business/images/mistral-01.png)
+   <img src="https://sharynrichard.github.io/sharynr-labs/ibm-bob/ai-in-business/images/mistral-01.png" alt="Mistral.ai API page" width="100%">
 
 ## Task 1b: Set up the project
 
@@ -227,7 +227,7 @@ You need a `.env` file to store you Mistral API key. Follow these steps to creat
 
 The following image shows the *ai-in-business* folder:
 
-<img src="https://sharynrichard.github.io/sharynr-labs/ibm-bob/ai-in-business/images/folder.png" alt="AI in Business folder">
+<img src="https://sharynrichard.github.io/sharynr-labs/ibm-bob/ai-in-business/images/folder.png" alt="AI in Business folder" width="100%">
 
 [Back to the top](#top)
 
@@ -330,7 +330,7 @@ Bob completes the following tasks based on the prompt:
 
 The following image shows the starter application:
 
-<img src="https://sharynrichard.github.io/sharynr-labs/ibm-bob/ai-in-business/images/starter-app.png" alt="Starter application">
+<img src="https://sharynrichard.github.io/sharynr-labs/ibm-bob/ai-in-business/images/starter-app.png" alt="Starter application" width="100%">
 
 [Back to the top](#top)
 
@@ -431,7 +431,7 @@ Bob makes the following modifications to the application based on the prompt:
 
 The following image shows the application with sentiment and intent scoring implemented:
 
-<img src="https://sharynrichard.github.io/sharynr-labs/ibm-bob/ai-in-business/images/sentiment-scoring.png" alt="Sentiment and intent scoring">
+<img src="https://sharynrichard.github.io/sharynr-labs/ibm-bob/ai-in-business/images/sentiment-scoring.png" alt="Sentiment and intent scoring" width="100%">
 
 [Back to the top](#top)
 
@@ -513,7 +513,7 @@ Bob makes the following modifications to the application based on the prompt:
 
 The following image shows the application with queue routing implemented:
 
-<img src="https://sharynrichard.github.io/sharynr-labs/ibm-bob/ai-in-business/images/queue-routing.png" alt="Competitor tagging and queue routing">
+<img src="https://sharynrichard.github.io/sharynr-labs/ibm-bob/ai-in-business/images/queue-routing.png" alt="Competitor tagging and queue routing" width="100%">
 
 [Back to the top](#top)
 
@@ -577,7 +577,7 @@ Bob makes the following modifications to the application based on the prompt:
 
 The following image shows the application with triage actions implemented:
 
-<img src="https://sharynrichard.github.io/sharynr-labs/ibm-bob/ai-in-business/images/triage.png" alt="Triage actions">
+<img src="https://sharynrichard.github.io/sharynr-labs/ibm-bob/ai-in-business/images/triage.png" alt="Triage actions" width="100%">
 
 [Back to the top](#top)
 
@@ -633,7 +633,7 @@ Bob makes the following modifications to the application based on the prompt:
 
 The following image shows the application with the news panel implemented:
 
-<img src="https://sharynrichard.github.io/sharynr-labs/ibm-bob/ai-in-business/images/news-panel.png" alt="Market pulse news panel">
+<img src="https://sharynrichard.github.io/sharynr-labs/ibm-bob/ai-in-business/images/news-panel.png" alt="Market pulse news panel" width="100%">
 
 [Back to the top](#top)
 
@@ -690,9 +690,9 @@ Bob makes the following modifications to the application based on the prompt:
 
 The following images show the application with date range controls implemented:
 
-<img src="https://sharynrichard.github.io/sharynr-labs/ibm-bob/ai-in-business/images/date-range-01.png" alt="Date range controls and period comparison">
+<img src="https://sharynrichard.github.io/sharynr-labs/ibm-bob/ai-in-business/images/date-range-01.png" alt="Date range controls and period comparison" width="100%">
 
-<img src="https://sharynrichard.github.io/sharynr-labs/ibm-bob/ai-in-business/images/date-range-02.png" alt="Date range controls and period comparison">
+<img src="https://sharynrichard.github.io/sharynr-labs/ibm-bob/ai-in-business/images/date-range-02.png" alt="Date range controls and period comparison" width="100%">
 
 [Back to the top](#top)
 
@@ -746,11 +746,11 @@ Bob makes the following modifications to the application based on the prompt:
 
 The following image shows the brief:
 
-<img src="https://sharynrichard.github.io/sharynr-labs/ibm-bob/ai-in-business/images/brief.png" alt="Final application">
+<img src="https://sharynrichard.github.io/sharynr-labs/ibm-bob/ai-in-business/images/brief.png" alt="Final application" width="100%">
 
 The following image shows the completed application:
 
-<img src="https://sharynrichard.github.io/sharynr-labs/ibm-bob/ai-in-business/images/final-app.png" alt="Final application">
+<img src="https://sharynrichard.github.io/sharynr-labs/ibm-bob/ai-in-business/images/final-app.png" alt="Final application" width="100%">
 
 
 **Note:** When you are done, press `CTRL+C` in the terminal window to stop the application.
