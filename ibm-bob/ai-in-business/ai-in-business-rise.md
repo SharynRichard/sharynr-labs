@@ -48,7 +48,7 @@ This lab uses two datasets that include posts and news articles about coffee tre
 
 **Tip:** Right-click the following links, and open the pages in a new tab.
 
-- posts.csv: [Bluesky API](https://bsky.network/)
+- posts.csv: <a href="https://bsky.network/" target="_blank">Bluesky API</a>
   - Columns include:
     - post_id
     - author
@@ -56,7 +56,7 @@ This lab uses two datasets that include posts and news articles about coffee tre
     - likes
     - reposts
     - text
-- news.csv: [News API](https://newsapi.org/)
+- news.csv: <a href="https://newsapi.org/" target="_blank">News API</a>
   - Columns include:
     - published_at
     - source
@@ -76,11 +76,11 @@ This lab uses two datasets that include posts and news articles about coffee tre
 
 **Tip:** Right-click the following links, and open the pages in a new tab.
 
-Complete the prerequisite tasks of [Get started with IBM Bob](../../ai-in-sports/get-started-with-ibm-bob.md)
+Complete the prerequisite tasks of <a href="../../ai-in-sports/get-started-with-ibm-bob.md" target="_blank">Get started with IBM Bob</a>
 
 You will also need the following to set up the project: 
 
-- A free Mistral AI account. Create one at [console.mistral.ai](https://console.mistral.ai) (email plus phone verification, no credit card required). The free "Experiment" tier covers this lab many times over.
+- A free Mistral AI account. Create one at <a href="https://console.mistral.ai" target="_blank">console.mistral.ai</a> (email plus phone verification, no credit card required). The free "Experiment" tier covers this lab many times over.
 - The lab data files `data/posts.csv` and `data/news.csv`, provided with the lab.
 
 ***
@@ -141,7 +141,7 @@ Don't worry if you don't have these installed yet — IBM Bob will help you chec
 
 You will need a **Mistral AI API key**. Follow these steps to create the account and obtain an API key:
 
-1. Go to [console.mistral.ai](https://console.mistral.ai) and create a free account (email plus phone verification, no card required).
+1. Go to <a href="https://console.mistral.ai" target="_blank">console.mistral.ai</a> and create a free account (email plus phone verification, no card required).
 
    <img src="https://sharynrichard.github.io/sharynr-labs/ibm-bob/ai-in-business/images/mistral-02.png" alt="Mistral.ai home page" width="100%">
 
@@ -154,7 +154,7 @@ You will need a **Mistral AI API key**. Follow these steps to create the account
 Follow these steps to create the lab folder and download that datasets:
 
 1. Choose a folder location for the lab work.
-1. Download the [data.zip](data.zip) file to your lab folder. The zip file contains `posts.csv` and `news.csv`.
+1. Download the <a href="data.zip" target="_blank">data.zip</a> file to your lab folder. The zip file contains `posts.csv` and `news.csv`.
 1. In Bob, open the terminal window: click **Terminal > New Terminal**.
 1. Use the `cd` command in the terminal panel to move into that folder.
 1. Create a folder for your project and unzip the provided data files into it:
@@ -781,6 +781,6 @@ Now that you have completed this lab, you should be able to:
 
 ## Additional resources
 
-- [IBM Bob documentation](https://bob.ibm.com/docs)
-- [Mistral AI documentation](https://docs.mistral.ai)
-- [Streamlit documentation](https://docs.streamlit.io)
+- <a href="https://bob.ibm.com/docs" target="_blank">IBM Bob documentation</a>
+- <a href="https://docs.mistral.ai" target="_blank">Mistral AI documentation</a>
+- <a href="https://docs.streamlit.io" target="_blank">Streamlit documentation</a>
