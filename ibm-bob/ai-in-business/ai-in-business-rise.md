@@ -76,7 +76,7 @@ This lab uses two datasets that include posts and news articles about coffee tre
 
 **Tip:** Right-click the following links, and open the pages in a new tab.
 
-Complete the prerequisite tasks of <a href="../../ai-in-sports/get-started-with-ibm-bob.md" target="_blank">Get started with IBM Bob</a>
+Complete the prerequisite tasks of <a href="https://sharynrichard.github.io/sharynr-labs/ai-in-sports/get-started-with-ibm-bob.html" target="_blank">Get started with IBM Bob</a>
 
 You will also need the following to set up the project: 
 
@@ -154,7 +154,7 @@ You will need a **Mistral AI API key**. Follow these steps to create the account
 Follow these steps to create the lab folder and download that datasets:
 
 1. Choose a folder location for the lab work.
-1. Download the <a href="data.zip" target="_blank">data.zip</a> file to your lab folder. The zip file contains `posts.csv` and `news.csv`.
+1. Download the <a href="https://sharynrichard.github.io/sharynr-labs/ibm-bob/ai-in-business/data.zip" target="_blank">data.zip</a> file to your lab folder. The zip file contains `posts.csv` and `news.csv`.
 1. In Bob, open the terminal window: click **Terminal > New Terminal**.
 1. Use the `cd` command in the terminal panel to move into that folder.
 1. Create a folder for your project and unzip the provided data files into it:
